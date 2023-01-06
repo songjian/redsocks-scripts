@@ -1,2 +1,2 @@
 # redsocks-scripts
-Redsocks启动脚本
+以root身份运行。
